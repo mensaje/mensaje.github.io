@@ -24,7 +24,7 @@ h2
 	color: #fff;
 	text-align: center;
 	font-size: 12vw;
-	line-height: 1em;
+	line-height: 100px;
 	z-index: 1000;
 	font-weight: 900;
 }
@@ -87,7 +87,7 @@ h2 span
 h2
 {
 	font-size: 14vw;
-	
+	line-height: 1em;
 }
 
 h2 span {
